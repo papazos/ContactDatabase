@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contact Database</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_dob">Date of Birth</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_avatar">Choose avatar</string>
+</resources>
